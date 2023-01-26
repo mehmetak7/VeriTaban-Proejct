@@ -1,0 +1,2 @@
+# VeriTaban-Proejct
+Dönem Ödevi
